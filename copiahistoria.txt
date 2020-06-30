@@ -1,0 +1,6 @@
+(COPIA)Esta es la historia de Roger Huanuco.
+
+Roger tiene 28 años y nació en Barcelona.
+
+Mañana nos enfocaremos en su vida laboral
+Probando el git rm nuevo
